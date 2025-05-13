@@ -1,32 +1,39 @@
 # Uber-Data-Analysis
 A comprehensive Power BI project that analyzes an Uber dataset, and I'm thrilled to share the insights and visualizations I created. Here's a brief overview of what I did:
 
-🔄 Data Cleaning:
+# 🔄 Data Cleaning:
 
-Utilized Power Query to handle missing values, remove duplicates, and change the data types for the START_DATE and END_DATE fields.
+- Utilized Power Query to handle missing values, remove duplicates, and change the data types for the START_DATE and END_DATE fields.
 
-🔢 Calculated Fields:
+# 🔢 Calculated Fields:
 
-Created new fields including Start_Time and End_Time by extracting the time from the START_DATE and END_DATE columns.
+- Created new fields including Start_Time and End_Time by extracting the time from the START_DATE and END_DATE columns.
 
-Calculated Trip_Duration by determining the difference between Start_Time and End_Time.
+- Calculated Trip_Duration by determining the difference between Start_Time and End_Time.
 
-📊 Visualizations:
+# 📊 Visualizations:
 
--Report Page: Focused on key business metrics such as:
+## Report Page: Focused on key business metrics such as:
 
-Total trips, Total purposes, Average miles per trip and Average trip duration in minutes
+- Total trips, Total purposes, Average miles per trip and Average trip duration in minutes
 
-Charts:
+- Charts:
 Trips by category
 Number of trips by month
 Longest trips in mile
 Most common purposes
 
--Geographic Details Page: Showcased geographical insights with:
+![Report](https://github.com/user-attachments/assets/1dfba705-9308-43d6-90eb-e1f2b5d49de5)
 
-A map representing the geographic distribution of trip origins.
+## Geographic Details Page:
+Showcased geographical insights with:
 
-A table listing start locations and the number of trips from those locations.
+- A map representing the geographic distribution of trip origins.
 
-This project not only honed my data cleaning and analysis skills but also enhanced my ability to create insightful visualizations that drive business decisions.
+- A table listing start locations and the number of trips from those locations.
+
+![Geographic Details](https://github.com/user-attachments/assets/aa679325-0b8e-4381-af6c-25f50c639521)
+
+
+
+
