@@ -1,4 +1,4 @@
-# Uber-Data-Analysis
+# Uber Data Analysis
 A comprehensive Power BI project that analyzes an Uber dataset, and I'm thrilled to share the insights and visualizations I created. Here's a brief overview of what I did:
 
 # 🔄 Data Cleaning:
